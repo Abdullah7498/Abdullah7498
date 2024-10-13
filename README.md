@@ -6,22 +6,22 @@ I'm **Abdullah**, a **MERN Stack Developer** passionate about Learning New Tech 
 
 ### 🛠 Tech Stack
 
-#### 💻 Frontend:
-
 <div align="center">
-  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=redux&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+  
+  - 💻 **Languages**:  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)  
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
-</div>
 
-#### 🌐 Backend:
+  - 🌐 **Frontend**:  
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)  
+  ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=redux&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 
-<div align="center">
-  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+  - 🌐 **Backend**:  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)  
   ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat&logo=mongodb&logoColor=white)
+  
 </div>
 
 ---
