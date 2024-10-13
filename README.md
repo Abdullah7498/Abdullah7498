@@ -33,11 +33,3 @@ I'm a **MERN Stack Developer** passionate about learning new technologies and bu
 
 </div>
 
----
-<div align="left">
-👨‍💻 Currently working on: Super Git
-🌱 Learning: Go
-💬 Ask me about: MERN stack, web development
-📫 How to reach me: abdullahtanveer7429@gmail.com
-</div>
----
