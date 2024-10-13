@@ -3,7 +3,6 @@
 I'm [Abdullah], a [Mern Stack Developer] passionate about [Learning New Tech].
 
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
 - 💻 **Languages**:  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)  
