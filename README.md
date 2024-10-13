@@ -6,7 +6,7 @@ I'm **Abdullah**, a **MERN Stack Developer** passionate about Learning New Tech 
 
 ### 🛠 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+<div style="display: flex; flex-wrap: wrap; justify-content:center; flex-direction:row ; gap: 10px;">
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)  
