@@ -17,10 +17,12 @@ I'm a **MERN Stack Developer** passionate about learning new technologies and bu
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah7498&show_icons=true&theme=radical&hide=contribs,prs)
 
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah7498&show_icons=true&theme=radical)
+
+
+
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah7498&langs_count=5&theme=radical&layout=compact&custom_title=Top%20Languages%20(Frontend%20&%20Backend))
   
