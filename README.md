@@ -30,5 +30,7 @@ I'm a **MERN Stack Developer** passionate about learning new technologies and bu
 ## 🔗 Connect with me
 
 <div align="center">
-    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/      abdullah-tanveer-772956309)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tanveer-772956309)
 </div>
+
