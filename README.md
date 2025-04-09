@@ -20,8 +20,9 @@ I'm a **MERN Stack Developer** passionate about learning new technologies and bu
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah7498&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah7498&langs_count=5&theme=radical&layout=compact&custom_title=Top%20Languages%20(Frontend%20&%20Backend))
+  
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah7498&show_icons=true&theme=radical)
+ 
 </div>
 
 ---
@@ -29,5 +30,5 @@ I'm a **MERN Stack Developer** passionate about learning new technologies and bu
 ## 🔗 Connect with me
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tanveer-772956309)
+    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/      abdullah-tanveer-772956309)
 </div>
