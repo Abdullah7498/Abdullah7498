@@ -26,7 +26,7 @@ I specialize in building modern, responsive web applications with the **MERN sta
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,nest,postgress,mongodb,js,ts,html,css,tailwind,git,github,vite" />
 </p>
 
 ---
